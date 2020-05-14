@@ -1,0 +1,22 @@
+{
+  "name": "webapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FaculdadeUninove/webApi.git"
+  },
+  "author": "Thiago Xavier",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FaculdadeUninove/webApi/issues"
+  },
+  "homepage": "https://github.com/FaculdadeUninove/webApi#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
